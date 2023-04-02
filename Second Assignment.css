@@ -1,0 +1,97 @@
+hl,ol.topbar>nav>ul
+{   margin:0;
+    padding:0;
+    list-style: none;
+    width:100%;
+    height:40px;
+    background-color:rgba(90, 214, 255, 0.731);
+}
+
+.topbar>nav>ul>li{
+    /* background-color:rgb(208, 160, 253); */
+    /* padding:3px; */
+    /* margin:2px; */
+    float:left;
+    height:50px;
+    display:flex;
+    flex-direction:row;
+    position:relative;
+    color:white;
+    width:150px;
+}
+.topbar>nav>ul>li>a{
+    color:white;
+    text-decoration:none;
+     display:block;
+
+     font-size:15px;
+     padding:2px;
+     margin-top:9px;
+     /* margin-left:1.5px; */
+}
+.topbar>nav>ul>li>a:hover{
+    color:rgb(0, 178, 248);
+}
+body{
+    background-color:rgb(90,
+        214,
+        255,
+        0.731);
+}
+h3{
+    text-align:center;
+    text-decoration:underline;
+    text-decoration-color: rgb(0, 0, 0);
+}
+.c1
+{
+    background-image: url('images/bgs/bgnoise_lg.png');
+    height:500px;
+    width:100%;
+}
+h2
+{
+    text-align:center;
+    font-size:30px;
+    color:black;
+    text-decoration:underline;
+    /* margin:3px; */
+}
+footer{
+    background-color:powderblue;
+    color:black;
+    font-size: 25px;
+    text-align:center;
+}
+.d1
+{
+    background-image:url('images/bgs/black-Linen.png');
+    background-color:rgba(90,
+        214,
+        255,
+        0.731);
+    height:400px;
+    width:90%;
+    margin:23px;
+    margin-top:20px;
+    padding:32px;
+    border-radius: 23px;;
+}
+p{
+    color:white;
+}
+a:link {
+     text-decoration: none;
+}
+
+a:visited {
+     text-decoration: none;
+}
+
+a:hover {
+     text-decoration: none;
+}
+
+a:active {
+     text-decoration: none;
+}
