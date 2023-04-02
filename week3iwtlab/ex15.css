@@ -1,0 +1,29 @@
+body{
+ 
+    background-image: linear-gradient(rgb(247, 175, 18) 30%, rgb(226, 82, 10) 70%, rgb(221, 234, 69) 100%);
+}
+
+
+h1{
+    color:rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 30px;
+}
+
+h2{
+    color:rgb(142, 26, 213);
+    font-size: 20px;
+}
+
+span{
+	font-weight:900;
+	font-style:italic;
+	font-variant:small-caps;
+}
+
+p{
+    line-height: 2;
+    font-size: 15px;
+    color:rgb(29, 22, 213);
+}
+
